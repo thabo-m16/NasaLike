@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    text-align: center;
+    color: #82a5ca;
+}
+
+#gal{
+    width: 100px;
+}
+
+.container{
+    background-image: url("images/nasa.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment:fixed;
+    padding-bottom: 150px;
+}
+
+h1{
+    border-bottom: 1px solid black;
+    text-shadow: 4px 4px 4px black;
+}
+
+#btn{
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: 1px solid purple;
+    cursor: pointer;
+    font-weight: bold;
+}
+
